@@ -1,7 +1,5 @@
-![MasterHead](https://img.freepik.com/premium-photo/3d-render-technology-podium-future-product_618780-15.jpg)
 <h1 align="center">Hi 👋, I'm Rashik Mahmud</h1>
 <h3 align="center">A passionate technology enthusiast from Bangladesh</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ringmaster777&label=Profile%20views&color=0e75b6&style=flat" alt="ringmaster777" /> </p>
 
