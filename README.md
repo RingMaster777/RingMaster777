@@ -1,4 +1,4 @@
-![MasterHead](https://images2.alphacoders.com/209/thumb-1920-209420.jpg)
+![MasterHead](https://img.freepik.com/premium-photo/3d-render-technology-podium-future-product_618780-15.jpg)
 <h1 align="center">Hi 👋, I'm Rashik Mahmud</h1>
 <h3 align="center">A passionate technology enthusiast from Bangladesh</h3>
 
