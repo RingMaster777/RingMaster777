@@ -1,6 +1,7 @@
+[![MasterHead](https://images2.alphacoders.com/209/thumb-1920-209420.jpg)]
 <h1 align="center">Hi 👋, I'm Rashik Mahmud</h1>
 <h3 align="center">A passionate technology enthusiast from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://images2.alphacoders.com/209/thumb-1920-209420.jpg"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ringmaster777&label=Profile%20views&color=0e75b6&style=flat" alt="ringmaster777" /> </p>
 
