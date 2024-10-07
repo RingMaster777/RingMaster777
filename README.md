@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ringmaster777&label=Profile%20views&color=0e75b6&style=flat" alt="ringmaster777" /> </p>
 
 - 📫 How to reach me **rashikjoy777@gmail.com**
+- 🌱 I’m currently learning **C#, ASP.NET Core, MSSQL, Oracle, Microservice**
+- 💬 Ask me about C# ASP.NET Core
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
